@@ -1,0 +1,27 @@
+{
+  "name": "index",
+  "version": "0.0.0",
+  "description": "Express app handling REST requests",
+  "author": "Houzair Koussa <houzairmk@icloud.com>",
+  "homepage": "https://github.com/houzyk/mauritius-media-search-monorepo#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/houzyk/mauritius-media-search-monorepo.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/index.test.ts",
+    "compile": "tsc"
+  },
+  "bugs": {
+    "url": "https://github.com/houzyk/mauritius-media-search-monorepo/issues"
+  }
+}
