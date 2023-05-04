@@ -1,7 +1,7 @@
 {
-  "name": "api",
+  "name": "web-extension",
   "version": "0.0.0",
-  "description": "Express app handling REST requests",
+  "description": "",
   "author": "Houzair Koussa <houzairmk@icloud.com>",
   "homepage": "https://github.com/houzyk/mauritius-media-search-monorepo#readme",
   "license": "ISC",
