@@ -19,7 +19,7 @@
   },
   "scripts": {
     "test": "node ./tests/index.test.ts",
-    "compile": "tsc"
+    "build": "webpack --config webpack.config.js"
   },
   "bugs": {
     "url": "https://github.com/houzyk/mauritius-media-search-monorepo/issues"
