@@ -8,7 +8,7 @@
   "main": "lib/index.js",
   "directories": {
     "lib": "lib",
-    "test": "__tests__"
+    "test": "tests"
   },
   "files": [
     "lib"
@@ -18,7 +18,7 @@
     "url": "git+https://github.com/houzyk/mauritius-media-search-monorepo.git"
   },
   "scripts": {
-    "test": "node ./__tests__/index.test.ts",
+    "test": "node ./tests/index.test.ts",
     "compile": "tsc"
   },
   "bugs": {

@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Mauritius Media Search Web Extension",
+  "description": "",
+  "version": "1.0",
+  "action": {
+    "default_popup": "lib/index.html",
+    "default_title": "Mauritius Media Search Web Extension"
+  }
+}

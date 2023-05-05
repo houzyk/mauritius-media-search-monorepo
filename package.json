@@ -6,6 +6,7 @@
   ],
   "devDependencies": {
     "@types/node": "^18.16.3",
+    "chrome-types": "^0.1.191",
     "lerna": "^5.4.3",
     "typescript": "^5.0.4"
   }
