@@ -21,7 +21,8 @@
     "test": "node ./tests/index.test.ts",
     "compile": "tsc",
     "start": "node lib/index.js",
-    "dev": "concurrently \"npx tsc --watch\" \"nodemon -q lib/index.js\""
+    "dev": "concurrently \"npx tsc --watch\" \"nodemon -q lib/index.js\"",
+    "build": "tsc && node lib/index.js"
   },
   "bugs": {
     "url": "https://github.com/houzyk/mauritius-media-search-monorepo/issues"
